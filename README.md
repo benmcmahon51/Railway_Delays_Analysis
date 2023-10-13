@@ -1,6 +1,6 @@
 # Railway Delays Analysis Project
 
-This project focuses on analyzing high-speed railway data to identify attributes that impact train ride arrival and departure delays. The analysis is conducted using Python in a Jupyter notebook as part of a [CodeCademy Python For Data Analysis Lab](https://www.codecademy.com/projects/practice/analyzing-high-speed-railways-with-python)
+This project focuses on analyzing high-speed railway data to identify attributes that impact train ride arrival and departure delays. The analysis is conducted using Python in a Jupyter notebook as part of a [CodeCademy Python For Data Analysis Lab](https://www.codecademy.com/learn/paths/learn-python-for-data-science)
 
 ## Project Goal
 
